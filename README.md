@@ -226,7 +226,7 @@ If you find this repository helpful, please consider giving it a ⭐.
 
 ### Github
 
-https\://github.com/Unstoppable-9124
+[https://github.com/YashKharat-9124]
 
 ### LinkedIn
 
