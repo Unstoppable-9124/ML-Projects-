@@ -11,7 +11,7 @@ The **AI Student Placement Predictor** provides an interactive AI-themed dashboa
 ### 🖥️ Placement Predictor Dashboard
 
 <p align="center">
-  <img src="placement-predictor-dashboard.png" alt="AI Student Placement Predictor Dashboard" width="900">
+  <img src="placement-predictor-dashboard.png" alt="AI Student Placement Predictor Dashboard" width="1000">
 </p>
 
 ### 💻 Application Running in Anaconda Prompt
